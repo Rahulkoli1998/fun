@@ -6,6 +6,3 @@ function myfunc(){
 }
 
 console.log(myfunc())
-
-
-console.log("akhilesh ne kuch feature add kiya h")
