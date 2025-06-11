@@ -1,0 +1,1 @@
+console.log("bhai kuch dleete ho gya the ab kya kre")
